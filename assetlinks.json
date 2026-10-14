@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.emergentagent.preview.anime_popper.twa",
+        "sha256_cert_fingerprints": ["85:22:D8:83:C5:14:95:3E:30:35:8B:D1:59:E0:21:05:68:80:2F:07:E6:56:EA:C3:13:D2:E0:5E:93:B0:B1:72"]
+      }
+    }]
